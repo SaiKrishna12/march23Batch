@@ -1,0 +1,13 @@
+<suite name="OrangeHRM Demo Test Suite" >
+  <test name="Login on OrangeHrm" >
+    <classes>
+       <class name="OrangeHRM.LoginusingReflections" />
+    </classes>
+  </test>
+ 
+ <test name="AddEmployee on OrangeHrm" >
+    <classes>
+       <class name="OrangeHRM.AddEmployeeusingReflections" />
+    </classes>
+  </test>
+</suite>
